@@ -10,6 +10,10 @@
 
 ---
 
+## API
+
+https://api-berita-indonesia.vercel.app/
+
 # SIBAS News App
 
 SIBAS News adalah aplikasi berita mobile berbasis Flutter yang memungkinkan pengguna untuk membaca berita dari berbagai kategori. Aplikasi ini menggunakan Firebase untuk otentikasi dan penyimpanan gambar profil, Hive untuk penyimpanan data lokal, dan berbagai paket Flutter untuk menampilkan berita dalam aplikasi.
